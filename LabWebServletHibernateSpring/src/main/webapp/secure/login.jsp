@@ -11,8 +11,18 @@
 <title>Login</title>
 </head>
 <body>
+<<<<<<< HEAD
+
+<h3>Login</h3>
+=======
+<<<<<<< HEAD
+
+<h3>Login</h3>
+=======
 
 <h3>Login _ 你好</h3>
+>>>>>>> branch 'master' of https://github.com/eeit99team6/Remote20180205
+>>>>>>> branch 'master' of https://github.com/eeit99team6/Remote20180205
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
 <table>
