@@ -21,7 +21,7 @@ function clearForm() {
 </script>
 </head>
 <body>
-lol
+
 <h3>Welcome ${user.email}</h3>
 
 <h3>Product Table</h3>
