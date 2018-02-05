@@ -11,7 +11,7 @@
 <body>
 
 <h3>00000Select Product Table Result : XXX row(s) selected</h3>
-
+1234567890
 <c:if test="${not empty select}">
 <table>
 	<thead>
