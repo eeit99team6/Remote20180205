@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h3>ewwwwwwwwwwwwwwwwwwwwwwSelect Product Table Result : XXX row(s) selected</h3>
+<h3>00000Select Product Table Result : XXX row(s) selected</h3>
 
 <c:if test="${not empty select}">
 <table>
